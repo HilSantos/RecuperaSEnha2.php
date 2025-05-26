@@ -1,4 +1,4 @@
-# RecuperaSEnha2.php
+# RecuperaSenha2.php
 Criação do recuperasenha2.php
 
 <?php
